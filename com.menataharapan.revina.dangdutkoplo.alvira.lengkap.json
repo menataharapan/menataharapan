@@ -1,0 +1,222 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwerty1234",
+    "backup_ads_intertitial": "qwerty1234",
+    "interval_intertitial": 3,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/RVA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "LENGKAP",
+      "image": "file:///android_asset/image/RVB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "BUKAN TAK MAMPU",
+    "image": "file:///android_asset/image/RVA.jpg",
+    "link_mp3": "mp3/RVBKANTAKMAMPUAL.mp3",
+    "duration": "416",
+    "lyrics": "<p>Berdosakah bila aku katakan<br />Aku jatuh cinta kepada dirimu<br />Walaupun kau tak sendiri lagi?<br />Izinkanlah aku menyayangimu<br />Walau tak mungkin lagi memiliki<br />Dirimu</p><p>Maafkanlah bila cintaku suatu dosa<br />Sungguh diriku tiada mengerti<br />Mengapa ku jatuh cinta kepada dirimu<br />Hanya kepadamu</p><p>Bukan tak mampu mencari yang lain<br />Tapi melihat dirimu, ku sudah bahagia<br />Hatiku bahagia<br />Semoga kau mengerti</p><p>Berdosakah bila aku katakan<br />Aku jatuh cinta kepada dirimu<br />Walaupun kau tak sendiri lagi?</p><p>Izinkanlah aku menyayangimu<br />Walau tak mungkin lagi memiliki<br />Dirimu</p><p>Maafkanlah bila cintaku suatu dosa</p><p>Sungguh diriku tiada mengerti<br />Mengapa ku jatuh cinta kepada dirimu<br />Hanya kepadamu</p><p>Bukan tak mampu mencari yang lain<br />Tapi melihat dirimu, ku sudah bahagia<br />Hatiku bahagia<br />Semoga kau mengerti</p><p>Maafkanlah bila cintaku suatu dosa</p></div></div>"
+  },
+    {
+      "id": 2,
+      "name_category": "TERBARU",
+      "title": "ADUHAI",
+      "image": "file:///android_asset/image/RVA.jpg",
+      "link_mp3": "mp3/8RVADUHAIAL.mp3",
+      "duration": "337",
+      "lyrics": "<div> <p>Indahnya, indahnya aduhai<br />Manisnya, manisnya aduhai</p> <p>Saat-saat memadu cinta<br />Saat-saat yang paling indah<br />Kata-kata bak mutiara<br />Kata-kata dalam bercinta</p> <p>Mesranya, mesranya aduhai<br />Rasanya, rasanya aduhai</p> <p>Menyanyi, bersama menyanyi<br />Mencurahkan rasa cinta dalam hati<br />Bersemi, semoga bersemi<br />Tumbuhlah dan mekarlah cinta sejati</p> <p>Indahnya, indahnya aduhai<br />Manisnya, manisnya aduhai</p> <p>Saat-saat memadu cinta<br />Saat-saat yang paling indah<br />Kata-kata bak mutiara<br />Kata-kata dalam bercinta</p> <p>Mesranya, mesranya aduhai<br />Rasanya, rasanya aduhai</p> <p>Sang bunga tersenyum merekah<br />Gembira menyambut tiba musim cinta<br />Semuanya nampak gembira<br />Seakan turut merasa bahagia</p> <p>Indahnya, indahnya aduhai<br />Manisnya, manisnya aduhai</p> <p>Saat-saat memadu cinta<br />Saat-saat yang paling indah<br />Kata-kata bak mutiara<br />Kata-kata dalam bercinta</p> <p>Mesranya, mesranya aduhai<br />Rasanya, rasanya aduhai</p> </div>"
+    },
+    {
+      "id": 3,
+      "name_category": "TERBARU",
+      "title": "MELODI CINTA",
+      "image": "file:///android_asset/image/RVA.jpg",
+      "link_mp3": "mp3/7RVMELODICINTAAL.mp3",
+      "duration": "437",
+      "lyrics": "<div> <p>Melodi, melodi, melodi cinta, melodinya cinta<br />Melodi, melodi, melodi cinta, selamanya indah</p> <p>Bila si dia berpolah, ku tak pernah marah<br />Bila si dia yang marah, itu hanya manja, sayang<br />Supaya disayang-sayang, inginnya disayang</p> <p>Melodi, melodi, melodi cinta, melodinya cinta<br />Melodi, melodi, melodi cinta, selamanya indah</p> <p>Pabila dalam liku bercinta<br />Terdapat tempat duka<br />Itu bunga bahagia<br />Derita dalam lembaran cinta<br />Walau sakit terasa<br />Itu garamnya cinta</p> <p>Yang menambah-nambah kasih-sayang<br />Yang menambah-nambah keindahan<br />Yang menambah-nambah kerinduan<br />Yang menambah-nambah kemesraan</p> <p>Melodi, melodi, melodi cinta</p> <p>*<br />Melodi, melodi, melodi cinta, melodinya cinta<br />Melodi, melodi, melodi cinta, selamanya indah</p> <p>Bila si dia berpolah, ku tak pernah marah<br />Bila si dia yang marah, itu hanya manja, sayang<br />Supaya disayang-sayang, inginnya disayang</p> <p>Melodi, melodi, melodi cinta, melodinya cinta<br />Melodi, melodi, melodi cinta, selamanya indah</p> <p>Pabila dalam liku bercinta<br />Terdapat tempat duka<br />Itu bunga bahagia<br />Derita dalam lembaran cinta<br />Walau sakit terasa<br />Itu garamnya cinta</p> <p>Yang menambah-nambah kasih-sayang<br />Yang menambah-nambah keindahan<br />Yang menambah-nambah kerinduan<br />Yang menambah-nambah kemesraan</p> <p>Melodi, melodi, melodi cinta</p> </div>"
+    },
+    {
+      "id": 4,
+      "name_category": "TERBARU",
+      "title": "HARUSKAH BERAKHIR",
+      "image": "file:///android_asset/image/RVA.jpg",
+      "link_mp3": "mp3/6RVHARUSKAHBERAKHIRAL.mp3",
+      "duration": "389",
+      "lyrics": "<div> <p>Putik yang sedang berbunga<br />Harum yang sedang mewangi<br />Haruskah gugur ke bumi?</p> <p>Hati yang sedang bahagia<br />Cinta yang sedang bersemi<br />Haruskah berakhir kini?</p> <p>Baru saja kureguk manis madu cinta<br />Kini harus kutelan pahitnya juada</p> <p>Oh-oh</p> <p>Kalau harus berpisah, mengapa berjumpa?<br />Awal bahagia berakhir merana</p> <p>Bukan karena salahmu, bukan karena salahku<br />Tetapi kita tiada bahagia</p> <p>Putik yang sedang berbunga<br />Harum yang sedang mewangi<br />Haruskah gugur ke bumi?</p> <p>Hati yang sedang bahagia<br />Cinta yang sedang bersemi<br />Haruskah berakhir kini?</p> <p>Baru saja kureguk manis madu cinta<br />Kini harus kutelan pahitnya juada</p> </div>"
+    },
+    {
+      "id": 5,
+      "name_category": "TERBARU",
+      "title": "KANDAS",
+      "image": "file:///android_asset/image/RVA.jpg",
+      "link_mp3": "mp3/5RVKANDASAL.mp3",
+      "duration": "299",
+      "lyrics": "<p>Bila tiada mendalam cinta dan kerinduan<br />Takkan terlalu dalam luka yang ku rasakan<br />Bila saja ku tahu bahwa kesetiaanmu begitu dalam padaku<br />Takkan aku mengingkari janjiku</p> <p>Sesal kian mendera akhir sudah cerita<br />Kini kau telah berdua itu kenyataannya<br />Bila saja ku tahu bahwa kesetiaanmu begitu dalam padaku<br />Takkan aku mengingkari janjiku</p> <p>Sekian lama ku cari dirimu kasih<br />Dari waktu ke waktu ku cari hingga putus asa diri ini<br />Dan betapa ku sesali yang telah terjadi<br />Kekasih yang paling ku cintai kini terluka hati</p> <p>Bila tiada mendalam cinta dan kerinduan<br />Takkan terlalu dalam luka yang ku rasakan ooh</p> <p>Sekian lama ku cari dirimu kasih<br />Dari waktu ke waktu ku cari hingga putus asa diri ini<br />Dan betapa ku sesali yang telah terjadi<br />Kekasih yang paling ku cintai kini terluka hati</p> <p>Telah terlarang kita untuk saling mencinta</p>"
+    },
+    {
+      "id": 6,
+      "name_category": "TERBARU",
+      "title": "KERANDA CINTA",
+      "image": "file:///android_asset/image/RVA.jpg",
+      "link_mp3": "mp3/4RVKERANDACINTAAL.mp3",
+      "duration": "306",
+      "lyrics": "<p>Kelamnya malam lukisan cintaku<br />Penuh derita yang kelabu<br />Walaupun telah lama<br />Hanyut ditelan masa<br />Tapi terkadang menyiksaku</p> <p>Selalu kucoba untuk melupakan<br />Percikan bayangan kenangan<br />Tetapi selalu saja<br />Dia datang dan menggoda<br />Dengan senyum sejuta siksa</p> <p>Mengapa tak juga<br />Derita selimut cinta<br />Melepas belenggu jiwa</p> <p>Apakah karena cinta yang dulu kurasa<br />Sangat tulus bersahaja<br />Sehingga tiada kata hati berprasangka<br />Bahwa dia akan khianat cinta<br />Bahwa dia akan khianat cinta</p> <p>Tinggallah kini hidupku sendiri<br />Antara ada dan tiada<br />Jasad bagai keranda<br />Naungan nafas cinta<br />Abadi terpendam di jiwa</p>"
+    },
+    {
+      "id": 7,
+      "name_category": "TERBARU",
+      "title": "PAYUNG HITAM",
+      "image": "file:///android_asset/image/RVA.jpg",
+      "link_mp3": "mp3/3RVPAYUNGHITAMAL.mp3",
+      "duration": "375",
+      "lyrics": "<p>Bagai bencana datang melanda<br />Setelah kudengar keputusanmu kejam</p> <p>Payung hitam yang menjadi saksi<br />Setiap hari diriku menanti<br />Tak peduli hujan turun<br />Petir menghalangi ku tetap bertahan<br />Walau air hujan membasahi badan</p> <p>Tapi kini setelah engkau kembali<br />Sikap sungguh menyakitkan hati<br />Mengapa baru sekarang<br />Aku kau banding bandingkan<br />Dengan wanita yang baru kau cinta kejam</p> <p>Sungguh begitu mudahnya<br />Engkau putuskan cinta<br />Hanya dengan satu kata<br />Kata maaf saja</p> <p>Walaupun cuma dua gram<br />Cincin yang engkau ikatkan<br />Tapi nantinya diriku<br />Akan jadi hinaan<br />Akan jadi cemoohan ocehan orang<br />Apakah seorang wanita lahir ke dunia<br />Hanya untuk dijadikan bahan perbandingan</p> <p>Tapi kini setelah engkau kembali<br />Sikap sungguh menyakitkan hati<br />Mengapa baru sekarang<br />Aku kau banding bandingkan<br />Dengan wanita yang baru kau cinta kejam</p> <p>Kejam<br />Kejam<br />Kejam<br />Kejam</p>"
+    },
+    {
+      "id": 8,
+      "name_category": "TERBARU",
+      "title": "MENGEJAR BADAI",
+      "image": "file:///android_asset/image/RVA.jpg",
+      "link_mp3": "mp3/2RVMENGEJARBADAIAL.mp3",
+      "duration": "321",
+      "lyrics": "<p>Percuma kuberdayung di air yang deras<br />Percuma kubersampan di lautan luas<br />Percuma kugapai pulau asmara</p> <p>Berjuta kata rayu membujuk cintamu<br />Hentikan murkamu membakar hatiku<br />Hentikan berdosa sungguh berdosa</p> <p>Hooo...<br />Cukup kumengalah agar tak berpisah<br />Namun batas kesabaran datang juga<br />Percuma kuberdayung di air yang deras</p> <p>*</p> <p>Sia sia kupertaruhkan harta jiwa dan raga<br />Namun pada akhirnya aku yang kecewa<br />Pada akhirnya kuterluka</p> <p>Ku tak kuasa menanggung beban derita cinta menyiksa<br />Laksana diriku sedang mengejar badai<br />Laksana kumengejar badai<br />Kau halalkan segala cara<br />Demi kepuasan duniamu</p> <p>Percuma kuberdayung di air yang deras</p> <p>**</p> <p>Sia sia kupertaruhkan harta jiwa dan raga<br />Namun pada akhirnya aku yang kecewa<br />Pada akhirnya kuterluka</p> <p>Ku tak kuasa menanggung beban derita cinta menyiksa<br />Laksana diriku sedang mengejar badai<br />Laksana kumengejar badai<br />Kau halalkan segala cara demi kepuasan duniamu</p> <p>Percuma kuberdayung di air yang deras</p>"
+    },
+    {
+      "id": 9,
+      "name_category": "TERBARU",
+      "title": "PECAH SERIBU",
+      "image": "file:///android_asset/image/RVA.jpg",
+      "link_mp3": "mp3/1RVPECAHSERIBUAL.mp3",
+      "duration": "323",
+      "lyrics": "<p>Ha-ah-ah-ah<br />Hu-uh-uh-uh</p> <p>Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin tapi<br />Cerminku pecah seribu, pecah seribu</p> <p>Ibarat bunga<br />Aku takut banyak kumbang yang hinggap<br />Aku tak mau<br />Patah-patah, tangkaiku patah<br />Aku tak mau</p> <p>Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin tapi<br />Cerminku pecah seribu, pecah seribu</p> <p>ho-oh<br />(La-la-la-la-la-la-la-la la-la-la-la-la-la-la-la) ho-oh</p> <p>Hanya dia<br />(Dia, dia, dia, dia, dia, dia, dia, dia, hanya dia)<br />Hanya dia yang ada di antara jantung hati<br />Tempat bermanja, tempatnya rindu<br />Tempat curahan hati yang damai</p> <p>Entah apa<br />Bagaikan kayu basah dimakan api<br />Api curiga, api cemburu<br />Api kerinduan yang membara</p> <p>Oh angin, kabarkan<br />Melati di depan rumahku menantimu<br />(Ha-ah-ah-ah)</p> <p>Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin tapi<br />Cerminku pecah seribu, pecah seribu</p> <p>Ibarat bunga<br />Aku takut banyak kumbang yang hinggap<br />Aku tak mau<br />Patah-patah, tangkaiku patah<br />Aku tak mau</p> <p>Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin tapi<br />Cerminku pecah seribu, pecah seribu</p> <p>ho-oh<br />(La-la-la-la-la-la-la-la la-la-la-la-la-la-la-la) ho-oh</p> <p>Hanya dia<br />(Dia, dia, dia, dia, dia, dia, dia, dia, hanya dia)<br />Hanya dia yang ada di antara jantung hati<br />Tempat bermanja, tempatnya rindu<br />Tempat curahan hati yang damai</p> <p>Entah apa<br />Bagaikan kayu basah dimakan api<br />Api curiga, api cemburu<br />Api kerinduan yang membara</p> <p>Oh angin, kabarkan<br />Melati di depan rumahku menantimu<br />(Ha-ah-ah-ah)</p> <p>Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin tapi<br />Cerminku pecah seribu, pecah seribu</p> <p>Ha-ah-ah-ah<br />Ha-ah-ah-ah</p> <p>Duhai angin, kabarkanlah, melati menanti<br />Duhai angin, kabarkanlah, melati menanti<br />Duhai angin, kabarkanlah, melati menanti<br />Duhai angin, kabarkanlah, melati menanti</p>"
+    },
+    {
+      "id": 10,
+      "name_category": "TERBARU",
+      "title": "BUKAN AK MAMPU",
+      "image": "file:///android_asset/image/RVA.jpg",
+      "link_mp3": "mp3/RVBUKANTAKMAMPUAL.mp3",
+      "duration": "325",
+      "lyrics": "<p>Berdosakah bila aku katakan<br />Aku jatuh cinta kepada dirimu<br />Walaupun kau tak sendiri lagi?<br />Izinkanlah aku menyayangimu<br />Walau tak mungkin lagi memiliki<br />Dirimu</p><p>Maafkanlah bila cintaku suatu dosa<br />Sungguh diriku tiada mengerti<br />Mengapa ku jatuh cinta kepada dirimu<br />Hanya kepadamu</p><p>Bukan tak mampu mencari yang lain<br />Tapi melihat dirimu, ku sudah bahagia<br />Hatiku bahagia<br />Semoga kau mengerti</p><p>Berdosakah bila aku katakan<br />Aku jatuh cinta kepada dirimu<br />Walaupun kau tak sendiri lagi?</p><p>Izinkanlah aku menyayangimu<br />Walau tak mungkin lagi memiliki<br />Dirimu</p><p>Maafkanlah bila cintaku suatu dosa</p><p>Sungguh diriku tiada mengerti<br />Mengapa ku jatuh cinta kepada dirimu<br />Hanya kepadamu</p><p>Bukan tak mampu mencari yang lain<br />Tapi melihat dirimu, ku sudah bahagia<br />Hatiku bahagia<br />Semoga kau mengerti</p><p>Maafkanlah bila cintaku suatu dosa</p></div></div>"
+    },
+    {
+      "id": 11,
+      "name_category": "TERBARU",
+      "title": "CINCIN KEPALSUAN",
+      "image": "file:///android_asset/image/RVA.jpg",
+      "link_mp3": "mp3/RVCINCINKEPALSUANAL.mp3",
+      "duration": "420",
+      "lyrics": "<p>Ha-aaa ... kau dusta<br />Cincin emas permata<br />Kau tukar dengan<br />Kau tukar dengan diriku</p> <p>Kau tuduh seakan aku bersalah<br />Demi Tuhan cinta untukmu saja<br />Kau bilang ada yang lain darimu<br />Setelah kau reguk madu asmara</p> <p>Kejamnya tuduhan<br />Mengapakah mengapa lidahmu<br />Berubah jadi bercabang dua?</p> <p>Cincin emas dan permata darimu<br />Hanya sebagai penukar diriku</p> <p>Seorang raja masih bijaksana<br />Dalam memutuskan persoalan cinta<br />Haaa-a-aa-aaa<br />Sebagai lelaki apa alasanmu<br />Kalau cuma untuk mendapatkan diriku?</p> <p>Kau ingkari janji bahkan sumpahmu dusta<br />Ludah yang kau buang engkau telan kembali</p> <p>Cincin emas dan permata darimu<br />Hanya sebagai penukar diriku</p> <p>Seorang raja masih bijaksana<br />Dalam memutuskan persoalan cinta<br />Haaa-a-aa-aaa<br />Sebagai lelaki apa alasanmu<br />Kalau cuma untuk mendapatkan diriku?</p> <p>Kau ingkari janji bahkan sumpahmu dusta<br />Ludah yang kau buang engkau telan kembali</p> <p>Kau tuduh seakan aku bersalah<br />Demi Tuhan cinta untukmu saja<br />Kau bilang ada yang lain darimu<br />Setelah kau reguk madu asmara</p> <p>Kejamnya tuduhan<br />Mengapakah mengapa lidahmu<br />Berubah jadi bercabang dua?</p> <p>Cincin emas dan permata darimu<br />Hanya sebagai penukar diriku</p>"
+    },
+    {
+      "id": 12,
+      "name_category": "LENGKAP",
+      "title": "CITRA CINTA",
+      "image": "file:///android_asset/image/RVB.jpg",
+      "link_mp3": "mp3/RVCITRACINTAAL.mp3",
+      "duration": "318",
+      "lyrics": "<p>Dihiasi alam manusiawi<br />Dengan cinta sebagai rahmat-Nya</p> <p>Agar dapat hidup berkasih sayang<br />Laki-laki dan perempuan<br />Agar dapat mengembangkan keturunan<br />Demi penerus perjuangan</p> <p>Begitulah Tuhan meletakkan<br />Nilai cinta dalam kesucian</p> <p>Jadi janganlah kau menyalahgunakan<br />Sebagai pemuas nafsu syetan<br />Dan juga janganlah cinta kau jadikan<br />Alat pembuat kerusakan</p> <p>Bila datang rasa cinta<br />Hati-hati dan waspada<br />Jaga, pelihara, serta kuasailah</p> <p>Sehingga sampai waktunya<br />Halal bagimu berdua<br />Bila biduk cinta tiba di titik nikah</p> <p>Banyak sudah tunas-tunas muda<br />Berguguran sebelum berkembang<br />Korban dari nafsu birahi durjana<br />Yang mengatasnamakan cinta</p> <p>Janganlah kau menodai citra cinta<br />Yang memang suci dan mulia<br />Syukurilah anugerah cinta<br />Pelihara nilai citra cinta</p>"
+    },
+    {
+      "id": 13,
+      "name_category": "LENGKAP",
+      "title": "TERLENA",
+      "image": "file:///android_asset/image/RVB.jpg",
+      "link_mp3": "mp3/RVDITELANALAMAL.mp3",
+      "duration": "318",
+      "lyrics": "<p>Masih terngiang di telingaku<br />Bisik cintamu<br />Betapa lembut dan mesranya<br />Aku terlena</p> <p>Terlena<br />Kuterlena</p> <p>Tiada terasa air mataku<br />Basahi pipi<br />Aku terharu dan terbuai<br />Aku terlena</p> <p>Terlena<br />Kuterlena</p> <p>Sungguh aku bahagia<br />Benih cinta yang kau tanam<br />Bersemi indah di hati</p> <p>Air mata bahagia<br />Jangan menjadi duka<br />Bersama kita selamanya</p> <p>Kuterlena<br />Dalam buai<br />Asmara</p> <p>Sungguh aku bahagia<br />Benih cinta yang kau tanam<br />Bersemi indah di hati</p> <p>Air mata bahagia<br />Jangan menjadi duka<br />Bersama kita selamanya</p> <p>Kuterlena<br />Dalam buai<br />Asmara</p> <p>Masih terngiang di telingaku<br />Bisik cintamu<br />Betapa lembut dan mesranya<br />Aku terlena</p> <p>Terlena<br />Kuterlena<br />Terlena<br />Kuterlena</p>"
+    },
+    {
+      "id": 14,
+      "name_category": "LENGKAP",
+      "title": "EGOIS",
+      "image": "file:///android_asset/image/RVB.jpg",
+      "link_mp3": "mp3/RVEGOISAL.mp3",
+      "duration": "253",
+      "lyrics": "<p>Harusnya tak begini<br />Diantara kau dan aku<br />Sama-sama bertahan<br />Hanya kar'na satu<br />Ego sendiri...</p> <p>Sering kita sembunyi<br />Di balik sikap dan kata<br />Padahal hati kita<br />Tak ingin saling menyakiti</p> <p>Mengapa tak mencoba<br />Jujur...<br />Pada hati kita<br />Kasih...</p> <p>Bahwa sesungguhnya<br />Engkau dan aku<br />Takut berpisah</p> <p>Seandainya saja<br />Mau...<br />Sedikit mengalah<br />Kasih...</p> <p>Pertengkaran ini<br />Tak mungkin ada<br />Selamanya...</p> <p>Sering kita sembunyi<br />Dibalik sikap dan kata<br />Padahal hati kita<br />Tak ingin saling menyakiti</p> <p>Mengapa tak mencoba<br />Jujur...<br />Pada hati kita<br />Kasih...</p> <p>Bahwa sesungguhnya<br />Engkau dan aku<br />Takut berpisah</p> <p>Seandainya saja<br />Mau...<br />Sedikit mengalah<br />Kasih...</p> <p>Pertengkaran ini<br />Tak mungkin ada<br />Selamanya...</p> </div> </div>"
+    },
+    {
+      "id": 15,
+      "name_category": "LENGKAP",
+      "title": "GALA GALA",
+      "image": "file:///android_asset/image/RVB.jpg",
+      "link_mp3": "mp3/RVGALAGALAAL.mp3",
+      "duration": "408",
+      "lyrics": "<p>Kini 'ku telah kembali<br />Kembali padamu, kasih<br />Setelah lama kutinggal pergi</p> <p>Lama sudah 'ku menanti<br />Menanti memadu kasih<br />Penuh rasanya rindu di hati<br />Oh, tiada terkira<br />Rindu segala-gala-galanya</p> <p>Oh, tiada terkira<br />Rindu segala-gala-gala-gala-galanya<br />Oh, tiada terkira<br />Rindu segala-gala-galanya<br />Oh, tiada terkira<br />Rindu segala-gala-gala-gala-galanya</p> <p>Kurindu gayamu ketika bercanda<br />Tawa lepas renyah ceria<br />Kurindu gayamu ketika bermanja<br />Meluluhkan segenap jiwa<br />Kurindu bagaimana engkau membujuk<br />Ketika 'ku merajuk<br />Kurindu bagaimana engkau mengasihi<br />Ketika kubersedih</p> <p>Kini 'ku telah kembali<br />Kembali padamu, kasih<br />Setelah lama kutinggal pergi</p> <p>Lama sudah 'ku menanti<br />Menanti memadu kasih<br />Penuh rasanya rindu di hati<br />Oh, tiada terkira<br />Rindu segala-gala-galanya</p> <p>Oh, tiada terkira<br />Rindu segala-gala-gala-gala-galanya<br />Oh, tiada terkira<br />Rindu segala-gala-galanya<br />Oh, tiada terkira<br />Rindu segala-gala-gala-gala-galanya<br />Kurindu gayamu ketika bercanda<br />Tawa lepas renyah ceria</p> <p>Kurindu gayamu ketika bermanja<br />Meluluhkan segenap jiwa<br />Kurindu bagaimana engkau membujuk<br />Ketika 'ku merajuk<br />Kurindu bagaimana engkau mengasihi<br />Ketika kubersedih</p> </div> </div>"
+    },
+    {
+      "id": 16,
+      "name_category": "LENGKAP",
+      "title": "KURANG APA",
+      "image": "file:///android_asset/image/RVB.jpg",
+      "link_mp3": "mp3/RVKURANGAPAAL.mp3",
+      "duration": "359",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "LENGKAP",
+      "title": "SECANGKIR KOPI",
+      "image": "file:///android_asset/image/RVB.jpg",
+      "link_mp3": "mp3/RVSECANGKIRKOPIAL.mp3",
+      "duration": "302",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "LENGKAP",
+      "title": "SURATAN",
+      "image": "file:///android_asset/image/RVB.jpg",
+      "link_mp3": "mp3/RVSURATANAL.mp3",
+      "duration": "331",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "LENGKAP",
+      "title": "TAKBIR KEPALSUAN",
+      "image": "file:///android_asset/image/RVB.jpg",
+      "link_mp3": "mp3/RVTAKBIRKEPALSUANAL.mp3",
+      "duration": "385",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "LENGKAP",
+      "title": "TERALIS BESI",
+      "image": "file:///android_asset/image/RVB.jpg",
+      "link_mp3": "mp3/RVTERALIBESIAL.mp3",
+      "duration": "418",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "LENGKAP",
+      "title": "TULUS HATI LUHUR BUDI",
+      "image": "file:///android_asset/image/RVB.jpg",
+      "link_mp3": "mp3/RVTULSHATILUHURBUDIAL.mp3",
+      "duration": "294",
+      "lyrics": ""
+    }
+
+  ]
+}
