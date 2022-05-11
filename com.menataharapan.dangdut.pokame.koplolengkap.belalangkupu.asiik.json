@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -26,11 +26,11 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
-"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
 
-"INTER_COUNT" : "4",
+"INTER_COUNT" : "3",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : true,
@@ -40,10 +40,10 @@
 "MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
-"STARTAPPID" : "203661169",
+"STARTAPPID" : "204614526",
 
-"ADMOB_BANNER" : "x",
-"ADMOB_INTER" : "x",
+"ADMOB_BANNER" : "ca-app-pub-8309523599849499/1216767499",
+"ADMOB_INTER" : "ca-app-pub-8309523599849499/7207460778",
 "ADMOB_NATIV" : "x",
 
 "HPK_ALIENDROID" : "",
