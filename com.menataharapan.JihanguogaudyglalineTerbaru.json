@@ -1,9 +1,9 @@
 {
  "Ads": [
     {
-    "admob_interid": "",
-    "admob_bannerid": "",
-  "interval":5,
+    "admob_interid": "ca-app-pub-8309523599849499/3576066825",
+    "admob_bannerid": "ca-app-pub-8309523599849499/5926897990",
+  "interval":4,
     "startappid": "201669628"
 
     }
