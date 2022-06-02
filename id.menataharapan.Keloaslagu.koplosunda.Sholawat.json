@@ -42,9 +42,9 @@
 
 "STARTAPPID" : "200000997",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
+"ADMOB_BANNER" : "x",
+"ADMOB_INTER" : "x",
+"ADMOB_NATIV" : "x",
 
 "HPK_ALIENDROID" : "",
 "HPK_ADMOB1" : "",
