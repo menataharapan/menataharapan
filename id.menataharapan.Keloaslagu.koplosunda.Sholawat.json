@@ -8,7 +8,7 @@
 "HOMEURL" : "file:///android_asset/music/playlist.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Sudah siap bernyanyi",
+"JSON_POPUP_WAIT" : "Sudah siap sholawat",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -42,8 +42,8 @@
 
 "STARTAPPID" : "211309592",
 
-"ADMOB_BANNER" : "ca-app-pub-8309523599849499/7474771624",
-"ADMOB_INTER" : "ca-app-pub-8309523599849499/9909363272",
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
 "ADMOB_NATIV" : "",
 
 "HPK_ALIENDROID" : "",
@@ -71,7 +71,7 @@
 "BUTTON_RATING" : "RATING NOW",
 
 "EXIT_POPUP_DIALOG" : "
-Agar Kami lebih semangat mengembangkan Aplikasi ini dan menambah lagu terbaru
+Agar Kami lebih semangat mengembangkan Aplikasi ini dan menambah sholawat baru lainnya
 
 Bantu kami dengan rating bingtang 5 ya 
 
